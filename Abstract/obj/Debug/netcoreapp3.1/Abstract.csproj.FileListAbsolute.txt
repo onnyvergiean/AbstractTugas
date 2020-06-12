@@ -1,0 +1,13 @@
+I:\AMIKOM\sem 2\Pemrograman\Abstract\obj\Debug\netcoreapp3.1\Abstract.csprojAssemblyReference.cache
+I:\AMIKOM\sem 2\Pemrograman\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfoInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfo.cs
+I:\AMIKOM\sem 2\Pemrograman\Abstract\bin\Debug\netcoreapp3.1\Abstract.exe
+I:\AMIKOM\sem 2\Pemrograman\Abstract\bin\Debug\netcoreapp3.1\Abstract.deps.json
+I:\AMIKOM\sem 2\Pemrograman\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.json
+I:\AMIKOM\sem 2\Pemrograman\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.dev.json
+I:\AMIKOM\sem 2\Pemrograman\Abstract\bin\Debug\netcoreapp3.1\Abstract.dll
+I:\AMIKOM\sem 2\Pemrograman\Abstract\bin\Debug\netcoreapp3.1\Abstract.pdb
+I:\AMIKOM\sem 2\Pemrograman\Abstract\obj\Debug\netcoreapp3.1\Abstract.dll
+I:\AMIKOM\sem 2\Pemrograman\Abstract\obj\Debug\netcoreapp3.1\Abstract.pdb
+I:\AMIKOM\sem 2\Pemrograman\Abstract\obj\Debug\netcoreapp3.1\Abstract.genruntimeconfig.cache
